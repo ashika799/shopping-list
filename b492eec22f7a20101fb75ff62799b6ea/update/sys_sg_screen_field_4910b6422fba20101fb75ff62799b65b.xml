@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>attachment_list</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name>attachment_list</field_name>
+        <hidden>false</hidden>
+        <order>410</order>
+        <record_id_field>sys_id</record_id_field>
+        <screen display_value="Details">dce42ec62f7a20101fb75ff62799b6a9</screen>
+        <screen_data_item_table>x_589799_shoppingg_shopping_items</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-11 14:10:35</sys_created_on>
+        <sys_id>4910b6422fba20101fb75ff62799b65b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>attachment_list</sys_name>
+        <sys_package display_value="Shopping Listt" source="x_589799_shoppingg">b492eec22f7a20101fb75ff62799b6ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping Listt">b492eec22f7a20101fb75ff62799b6ea</sys_scope>
+        <sys_update_name>sys_sg_screen_field_4910b6422fba20101fb75ff62799b65b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-11 14:10:35</sys_updated_on>
+        <type>attachments_list</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="delete_multiple" query="documentkey=4910b6422fba20101fb75ff62799b65b"/>
+</record_update>

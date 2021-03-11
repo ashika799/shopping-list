@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="DELETE">
+        <description>text_01_FieldValue</description>
+        <name display_value="FieldValue">c2eed5c2b7321010df65f6efce11a9cf</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-11 13:21:39</sys_created_on>
+        <sys_id>00e42ec62f7a20101fb75ff62799b67f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name>
+        <sys_package display_value="Shopping Listt" source="x_589799_shoppingg">b492eec22f7a20101fb75ff62799b6ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping Listt">b492eec22f7a20101fb75ff62799b6ea</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_00e42ec62f7a20101fb75ff62799b67f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-11 14:01:03</sys_updated_on>
+        <translated_value/>
+        <value>item</value>
+        <view_config_element display_value="item-FieldValue">4ce42ec62f7a20101fb75ff62799b67c</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shopping Listt">b492eec22f7a20101fb75ff62799b6ea</application>
+        <file_path/>
+        <instance_id>97e18e8ddb87b740b847ac44d49619ea</instance_id>
+        <instance_name>dev90333</instance_name>
+        <name>sys_sg_view_config_element_attribute_00e42ec62f7a20101fb75ff62799b67f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute"><sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE"><description>text_01_FieldValue</description><name display_value="FieldValue">c2eed5c2b7321010df65f6efce11a9cf</name><sys_class_name>sys_sg_view_config_element_attribute</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-11 13:21:39</sys_created_on><sys_id>00e42ec62f7a20101fb75ff62799b67f</sys_id><sys_mod_count>1</sys_mod_count><sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name><sys_package display_value="Shopping Listt" source="x_589799_shoppingg">b492eec22f7a20101fb75ff62799b6ea</sys_package><sys_policy/><sys_scope display_value="Shopping Listt">b492eec22f7a20101fb75ff62799b6ea</sys_scope><sys_update_name>sys_sg_view_config_element_attribute_00e42ec62f7a20101fb75ff62799b67f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-11 14:01:03</sys_updated_on><translated_value/><value>item</value><view_config_element display_value="item-FieldValue">4ce42ec62f7a20101fb75ff62799b67c</view_config_element></sys_sg_view_config_element_attribute></record_update>]]></payload>
+        <payload_hash>1758296426</payload_hash>
+        <record_name>c2eed5c2b7321010df65f6efce11a9cf</record_name>
+        <reverted_from/>
+        <source>3892eec22f7a20101fb75ff62799b6ec</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-11 14:01:03</sys_created_on>
+        <sys_id>59ed6ece2f7a20101fb75ff62799b6aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17821973e2c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-11 14:01:03</sys_updated_on>
+        <type>View Config Element Attribute</type>
+        <update_guid>d1ed6ececa7a20108788e08e0bcb7eaa</update_guid>
+        <update_guid_history>d1ed6ececa7a20108788e08e0bcb7eaa:1758296426,c4e42ec62e7a2010d109d4421f308280:563088827</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-11 14:21:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_view_config_element_attribute">sys_sg_view_config_element_attribute</sys_db_object>
+        <sys_id>3236d07da2d34684ae518d6edccaf284</sys_id>
+        <sys_metadata>00e42ec62f7a20101fb75ff62799b67f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name>
+        <sys_package display_value="Shopping Listt" source="x_589799_shoppingg">b492eec22f7a20101fb75ff62799b6ea</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shopping Listt">b492eec22f7a20101fb75ff62799b6ea</sys_scope>
+        <sys_scope_delete display_value="">16dfa7735d1442008431f76e18bf6ce4</sys_scope_delete>
+        <sys_update_name>sys_sg_view_config_element_attribute_00e42ec62f7a20101fb75ff62799b67f</sys_update_name>
+        <sys_update_version display_value="sys_sg_view_config_element_attribute_00e42ec62f7a20101fb75ff62799b67f">59ed6ece2f7a20101fb75ff62799b6aa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-11 14:21:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
